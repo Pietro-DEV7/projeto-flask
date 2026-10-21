@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-Esse projeto foi feito durante a aula de Python, com o objetivo de conhecer um pouco do Flask e entender como funciona a criação de páginas web usando Python.
+Esse projeto foi feito durante a aula de Python, com o objetivo de conhecer um pouco do Flask, instalar o UV (Que é um gerenciador de pacotes do python) e entender como funciona a criação de páginas web usando Python.
 
 Começamos acessando o ambiente Python criado na aula anterior. Depois, instalamos o UV pelo terminal, usamos alguns comandos para configurar o projeto e instalamos o Flask.
 
