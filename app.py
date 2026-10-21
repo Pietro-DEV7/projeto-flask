@@ -20,3 +20,6 @@ def home_usuario(username):
 @app.route("/olá/<nome>")
 def ola(nome=None):
   return render_template('ola.html', nome=nome)
+
+if __name__ == '__main__':
+    app.run()
